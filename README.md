@@ -9,6 +9,7 @@ Le but final de cette validation sera de créer une interface admin qui permette
 
 ### Arbre d'arborescence du projet
 
+```
 .
 ├── README.md
 ├── admin.php
@@ -31,6 +32,7 @@ Le but final de cette validation sera de créer une interface admin qui permette
 └── templates
 ├── footer.php
 └── header.php
+```
 
 ### Functionnement de la page
 
