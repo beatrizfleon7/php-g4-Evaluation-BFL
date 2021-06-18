@@ -1,0 +1,32 @@
+.container_header {
+  width: 100vw;
+  height: 150px;
+  background: url('/img/header.png');
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.nav {
+  height: 25px;
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+nav > ul {
+  list-style: none;
+
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
