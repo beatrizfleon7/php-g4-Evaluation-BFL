@@ -31,8 +31,11 @@
 <?php }
 
 } else {?>
-  <p>Connectez-vous pour avoir accès a ce contenu</p>
+<div class="forbidden">
+  <h3>Connectez-vous pour avoir accès a ce contenu</h3>
+</div>
 <?php }?> 
+
 
 
 
